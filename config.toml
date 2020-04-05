@@ -1,0 +1,4 @@
+baseURL = "http://lehrerbildung.github.io/"
+languageCode = "en-us"
+title = "BKD"
+theme = "hugo-learn-theme"
