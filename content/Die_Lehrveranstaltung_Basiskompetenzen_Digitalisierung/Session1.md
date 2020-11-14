@@ -50,7 +50,7 @@ Das Seminar ist Teil des gleichnamigen Niedersächsischen Verbundprojektes [Basi
 
 Eine Woche vor Seminarbeginn haben die Studierenden diese Aufgaben erhalten:
 
-<iframe width="100%" height="500" src="https://pad.gwdg.de/s/HyfJuBmuU#" frameborder="0"></iframe>
+{{< h5p "https://pad.gwdg.de/s/HyfJuBmuU#" "616" "570" >}}
 
 *Das Pad ist unter [diesem Link](https://pad.gwdg.de/s/HyfJuBmuU#) verfügbar*
 
