@@ -1,6 +1,7 @@
 ---
 title: "Aufgaben zu Sitzung 8 von Andreas Weich"
 date: 2020-11-14T10:25:55+01:00
+weight: 8.5
 draft: false
 ---
 
