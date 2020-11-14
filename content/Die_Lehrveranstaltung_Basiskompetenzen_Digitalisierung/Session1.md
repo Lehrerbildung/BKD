@@ -1,17 +1,14 @@
 ---
 title: "01 Bildung in der digitalen Welt - Eine Einführung"
 date: 2020-10-11T08:40:08+02:00
-draft: true
+draft: false
 ---
 
 
-*Die folgenden **Seminarplanung** richtet sich an **Dozierende** und behandelt die **Einführungssitzung** des  Seminars ["Basiskompetenzen Digitalisierung“ für Lehramtsstudierende](https://univz.uni-goettingen.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=262605), die im SoSe 2020 an der Universität Göttingen durchgeführt worden ist.
-Ein Überblick über das Seminarkonzept ist [hier](https://pad.gwdg.de/s/H1Pr8M4hB#) verfügbar.*
+Die folgenden **Seminarplanung** richtet sich an **Dozierende** und behandelt die **Einführungssitzung** des  Seminars ["Basiskompetenzen Digitalisierung“ für Lehramtsstudierende](https://univz.uni-goettingen.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=262605), die im SoSe 2020 an der Universität Göttingen durchgeführt worden ist.
+Ein Überblick über das Seminarkonzept ist [hier](https://pad.gwdg.de/s/H1Pr8M4hB#) verfügbar.
 
-*Das Seminar ist Teil des gleichnamigen Niedersächsischen Verbundprojektes [Basiskompetenzen Digitalisierung](https://http://www.lehrerbildungsverbund-niedersachsen.de/index.php?s=ProjektBasiskompetenzenDigitalisierung).*
-
-
-
+Das Seminar ist Teil des gleichnamigen Niedersächsischen Verbundprojektes [Basiskompetenzen Digitalisierung](https://http://www.lehrerbildungsverbund-niedersachsen.de/index.php?s=ProjektBasiskompetenzenDigitalisierung).
 
 
 ## Einordnung in den Seminarverlauf (SoSe 2020)
@@ -21,8 +18,8 @@ Ein Überblick über das Seminarkonzept ist [hier](https://pad.gwdg.de/s/H1Pr8M4
   <tr>
     <td><b>Kontext</b>:
         <li>Aufgrund der besonderen Situation ausgelöst durch die Corona-Pandemie wurde das Seminar rein digital durchgeführt</li>
-        <li>Zur Vorabinformation haben die Studierenden diese  <a href="https://docs.google.com/document/d/1ytJLBmvdGgSY2dAN3dKL4JfPaGXM4A2dzzqLTAYqhmI/edit#heading=h.l3l3f69hx6c6">Email</a> erhalten</li>
-   	</td>
+        <li>Zur Vorabinformation haben die Studierenden diese  <a href="https://docs.google.com/document/d/1ytJLBmvdGgSY2dAN3dKL4JfPaGXM4A2dzzqLTAYqhmI/edit#heading=h.l3l3f69hx6c6">Email</a> erhalten</li>  
+    </td>
   </tr>
   <tr>
       <td><b>Zielgruppe</b>: Lehramtsstudierende (fächer- und lehramtsübergreifend)</td>
@@ -155,7 +152,5 @@ Einstieg | - Brainstorming: Was ist für Sie "Digitale Bildung?"  | 1-2-all
 
 
 ## Lizenz
-*Autor:* [Torben Mau](https://twitter.com/torbenmau)
 
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br/><p>Die Inhalte dieser Seite sind, sofern nicht anders angegeben, nach <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons 4.0</a> Attribution lizenziert.</p>
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Das Dokument</span> von <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">[Torben Mau](https://twitter.com/torbenmau)</span> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
