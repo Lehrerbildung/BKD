@@ -73,6 +73,8 @@ Bei Fragen erreichen Sie mich über eine E-Mail an mail@andreas-weich.de.
 
 {{< h5p "https://etherpad2.elearning.uni-goettingen.de:9001/p/g.wTgX2Cmtixh4aLbS$Medien_1_fuerExtern?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" "616" "570" >}}
 
+</details>
+
 <!-- Neuer Abschnitt -->
 <details>
     <summary><b>Was zeichnet Medien aus?</b></summary></li>
