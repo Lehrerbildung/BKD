@@ -17,7 +17,7 @@ Markdown ist eine Auszeichnungssprache, die bereits in Rohform leicht lesbar ist
 ## Markdownformatierung
 
 [Editor mit Preview](https://dillinger.io/)  
-[Anleitung von heise.de](https://www.heise.de/mac-and-i/downloads/65/1/1/6/7/1/0/3/Markdown-CheatSheet-Deutsch.pdf)  
+[Anleitung vom genutzten Learn Theme](https://learn.netlify.app/en/cont/markdown/)  
 [Anleitung von ionos.de](https://www.ionos.de/digitalguide/websites/web-entwicklung/markdown/)  
 
 ## Andere Formatierungen im Text
