@@ -10,13 +10,13 @@ theme = "hugo-learn-theme"
   
 [[menu.shortcuts]] 
 	name = "<i class='fab fa-github'></i> Github Content"
-	identifier = "ds"
+	identifier = "content"
 	url = "https://github.com/Lehrerbildung/BKD"
 	weight = 10
 
 [[menu.shortcuts]] 
 	name = "<i class='fab fa-github'></i> Github Website"
-	identifier = "ds"
+	identifier = "website"
 	url = "https://github.com/Lehrerbildung/Lehrerbildung.github.io"
 	weight = 11
 
