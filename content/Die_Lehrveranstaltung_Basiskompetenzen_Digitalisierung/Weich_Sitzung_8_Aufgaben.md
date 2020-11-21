@@ -51,7 +51,7 @@ Der Zeitaufwand berträgt ca. 60 bis 75 Minuten.
 
 Bei Fragen erreichen Sie mich über eine E-Mail an mail@andreas-weich.de.
 
-<iframe width="560" height="315" src="https://www.studip.uni-goettingen.de/plugins.php/mediacastplugin/media/check/2a3c8d4547edc961f967ad8c308c5fec/ba00db8c3d95bcf2d9149b2848c70d5b/121?v=Sequenz_01_11.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://owncloud.gwdg.de/remote.php/webdav/Videos%20f%C3%BCr%20Extern/Andreas%20Weich/Sitzung%208/01_Begr%C3%BC%C3%9Fung.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
 
 
