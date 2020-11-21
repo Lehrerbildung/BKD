@@ -1,5 +1,5 @@
 ---
-title: "Aufgaben zu Sitzung 8 von Andreas Weich"
+title: "Aufgaben zu Sitzung 8 - Medienreflexion"
 date: 2020-11-14T10:25:55+01:00
 weight: 8.5
 draft: false
@@ -16,7 +16,6 @@ Zeilenumbrüche in Klappmenüs (laufen in HTML...)
 <br></br>
 -->
 
-# 5135 BKD - Aufgaben zur 08. Sitzung
 
 *Die folgenden Aufgaben sind für die Teilnehmenden des  Seminars ["Basiskompetenzen Digitalisierung“ für Lehramtsstudierende](https://www.uni-hildesheim.de/learnweb2020/course/view.php?id=1764), das im SoSe 2020 an der Universität Hildesheim durchgeführt wird. Dieses Modul kann mit 2 LP als IuK-Kurs angerechnet werden.*
 
