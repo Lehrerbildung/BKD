@@ -2,6 +2,9 @@ baseURL = "http://lehrerbildung.github.io/"
 languageCode = "en-us"
 title = "BKD"
 theme = "hugo-learn-theme"
+[params]
+  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  themeVariant = "bildung"
 
 [markup]
   [markup.goldmark]

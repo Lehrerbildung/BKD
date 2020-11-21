@@ -20,6 +20,3 @@ min_version = 0.25
   homepage = "https://learn.getgrav.org/"
   repo = "https://github.com/getgrav/grav-learn"
 
-[params]
-  # Change default color scheme with a variant one. Can be "red", "blue", "green".
-  themeVariant = "bildung"
