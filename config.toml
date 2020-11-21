@@ -7,15 +7,16 @@ theme = "hugo-learn-theme"
 [params]
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = "bildung" 
+  showVisitedLinks = true
   
 [[menu.shortcuts]] 
-	name = "<i class='fab fa-github'></i> Github Content"
+	name = "<i class='fab fa-archive'></i> Content"
 	identifier = "content"
 	url = "https://github.com/Lehrerbildung/BKD"
 	weight = 10
 
 [[menu.shortcuts]] 
-	name = "<i class='fab fa-github'></i> Github Website"
+	name = "<i class='fab fa-github'></i> Website"
 	identifier = "website"
 	url = "https://github.com/Lehrerbildung/Lehrerbildung.github.io"
 	weight = 11
