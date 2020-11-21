@@ -1,7 +1,7 @@
 ---
 title: "02 Persönliches Lernnetzwerk / Informations- und Medienkompetenz"
 date: 2020-11-21T12:58:53+01:00
-draft: true
+draft: false
 weight: 2
 ---
 {{% children  %}}
