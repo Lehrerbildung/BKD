@@ -5,7 +5,8 @@ draft: false
 ---
 # Das Seminar "Basiskompetenzen Digitalisierung für Lehramtsstudierende"
 
-Teaser zum Seminar „Basiskompetenzen Digitalisierung für Lehramtsstudierende“:
+
+Teaser zum Seminar „Basiskompetenzen Digitalisierung für Lehramtsstudierende“:  
 {{< h5p "https://www.youtube.com/watch?v=yKwBc3b33Mc" "616" "570" >}}
 
 Das Seminar [„Basiskompetenzen Digitalisierung für Lehramtsstudierende“](https://univz.uni-goettingen.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=262605) ist Teil des [niedersächsischen Verbundprojektes Basiskompetenzen Digitalisierung](http://www.lehrerbildungsverbund-niedersachsen.de/index.php?s=ProjektBasiskompetenzenDigitalisierung) und wurde erstmals im Sommersemester 2020 umgesetzt. Das Pilotseminar wurde von [Torben Mau](https://twitter.com/TorbenMau) an der Georg-August-Universität Göttingen im Rahmen des Zusatzangebotes [Lehramt PluS](https://www.uni-goettingen.de/de/356849.html) als Teil der Zertifikatslinie [#Digitale Bildung](http://www.uni-goettingen.de/lehramt-digitaleBildung) durchgeführt und richtete sich fächerübergreifend an Lehramtsstudierende des gymnasialen Lehramts und der Wirtschaftspädagogik. Gleichzeitig fand auch an der Universität Hildesheim ein Seminar statt, welches sich am Aufbau des Göttinger Seminars orientierte. Perspektivisch sollen die in diesem Seminar geförderten „Basiskompetenzen Digitalisierung“ (bis XXX 2023) in das Regelstudium aller niedersächsischen Lehramtsstudiengänge integriert werden.  

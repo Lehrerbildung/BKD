@@ -11,6 +11,7 @@ hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 # Go To Public folder
 cd public
 
+
 # Add changes to git.
 git add .
 
@@ -23,3 +24,6 @@ git commit -m "$msg"
 
 # Push source and build repos.
 git push origin master
+
+read -p "Deployment worked. Press any key to exit..."
+
